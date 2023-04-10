@@ -1,0 +1,8 @@
+{
+    "env": {
+      "MONGO_USER": "meksju",
+      "MONGO_PASSWORD": "3aKAyeVLTiXg9J",
+      "MONGO_DB": "Event",
+      "PORT": 27017
+    }
+  }
